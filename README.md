@@ -2,19 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Que+tal+um+%27Hola%27+ou+%27Hello%27👋;Bem+vindo(a)+ao+meu+repositório!)](https://git.io/typing-svg)
 
-<p align="left" style="font-family: 'Courier New', monospace;">Meu nome é Amanda, e é um prazer ver você por aqui!</p>
+<pre>Meu nome é Amanda, e é um prazer ver você por aqui!</pre>
 
 ###
 
-<h3 align="left" style="font-family: 'Courier New', monospace;">Sobre mim</h3>
+<h3 align="left"><pre>Sobre mim</pre></h3>
 
 ###
 
-<p align="left" style="font-family: 'Courier New', monospace;">• ✨ Sempre em busca de aprendizagem e desenvolvimento pessoal e profissional.<br><br>•  💻 Estudante de Ciência da Computação na CBM.<br><br>• ☕ Adoro um bom café e boas leituras.<br><br>• 🎯 Objetivos: <br>- Oportunidades para ampliar habilidades em Tecnologia.<br>- Explorar diferentes áreas da TI e poder contribuir com soluções inovadoras.</p>
+<pre>• ✨ Sempre em busca de aprendizagem e desenvolvimento pessoal e profissional.<br><br>•  💻 Estudante de Ciência da Computação na CBM.<br><br>• ☕ Adoro um bom café e boas leituras.<br><br>• 🎯 Objetivos: <br>- Oportunidades para ampliar habilidades em Tecnologia.<br>- Explorar diferentes áreas da TI e poder contribuir com soluções inovadoras.</pre>
 
 ###
 
-<h3 align="left" style="font-family: 'Courier New', monospace;">Linguagens</h3>
+<h3 align="left"><pre>Linguagens</pre></h3>
 
 ###
 
