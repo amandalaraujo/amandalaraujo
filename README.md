@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• Sempre em busca de aprendizado e desenvolvimento pessoal e profissional.<br><br> • Atualmente explorando fundamentos de programação, estruturas de dados, POO, APIs e desenvolvimento front-end com React e back-end com .NET <br><br></p>
+<p align="left">• Sempre em busca de aprendizado e desenvolvimento pessoal e profissional.<br> • Atualmente explorando fundamentos de programação, estruturas de dados, POO, APIs e desenvolvimento front-end com React e back-end com .NET <br><br></p>
 
 <h3 align="left">🎯 Objetivos</h3>
 
