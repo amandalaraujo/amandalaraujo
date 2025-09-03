@@ -2,17 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo(a)+ao+meu+repositório!)](https://git.io/typing-svg)
 
-<p align="left">Meu nome é Amanda, e é um prazer ver você por aqui!</p>
+<p align="left">Meu nome é Amanda Araújo, estudante de Ciência da Computação (6º semestre) no Centro Universitário Barão de Mauá.</p>
 
 ###
 
-<h3 align="left">Sobre mim</h3>
+<h3 align="left">🌟 Sobre mim</h3>
 
 ###
 
-<p align="left">• ✨ Sempre em busca de aprendizagem e desenvolvimento pessoal e profissional.<br><br>•  💻 Estudante de Ciência da Computação na CBM.<br><br>• ☕ Adoro um bom café e boas leituras.<br><br>• 🎯 Objetivos: <br>- Oportunidades para ampliar habilidades em Tecnologia.<br>- Explorar diferentes áreas da TI e poder contribuir com soluções inovadoras.</p>
+<p align="left">• Sempre em busca de aprendizado e desenvolvimento pessoal e profissional.<br><br> • Atualmente explorando fundamentos de programação, estruturas de dados, POO, APIs e desenvolvimento front-end com React e back-end com .NET <br><br></p>
+
+<h3 align="left">🎯 Objetivos</h3>
 
 ###
+
+<p>• Oportunidades para ampliar habilidades em Tecnologia.<br>• Explorar diferentes áreas da TI e poder contribuir com soluções inovadoras.</p></p>
 
 <h3 align="left">Linguagens</h3>
 
